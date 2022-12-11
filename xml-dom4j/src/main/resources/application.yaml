@@ -1,0 +1,8 @@
+infra:
+  xml:
+    dom4j:
+      newLines: false
+      indentEnable: false
+      indentHolder:
+      suppressDeclaration:
+      encoding: UTF-8
